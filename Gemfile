@@ -51,6 +51,7 @@ group :test do
   gem 'webdrivers'
 end
 
+#used to help with heroku app deployment
 group :production do
   gem 'pg'
 end
